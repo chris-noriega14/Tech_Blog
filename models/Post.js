@@ -12,11 +12,11 @@ Post.init(
         autoIncrement: true,
       },
       title: {
-        type: DataTypes.INTEGER,
+        type: DataTypes.STRING,
         allowNull: false,
       },
       contents: {
-        type: DataTypes.STRING,
+        type: DataTypes.DECIMAL(10,2),
       },
       username: {
         type: DataTypes.STRING,
