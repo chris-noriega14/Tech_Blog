@@ -1,5 +1,6 @@
 header, .project:not(:last-child) {
     border-bottom: 1px solid #ccc;
+    background-color: gainsboro;
   }
   
   .no-button {
@@ -22,4 +23,9 @@ header, .project:not(:last-child) {
     font-weight: bold;
     margin-left: -5px;
   }
+
+.navlink {
+  padding: 0px 50px 0px 0px;
+  font-weight: bolder;
+}
   

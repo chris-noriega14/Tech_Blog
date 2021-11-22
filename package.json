@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/chris-noriega14/Tech_Blog#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
     "dotenv": "^10.0.0",
