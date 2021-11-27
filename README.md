@@ -18,4 +18,5 @@ The homepage displays the full list of blog posts created by all users. When the
 Note: When creating the password during signup, make sure that it is at least 8 characters long. Also make sure that the email is an appropriate format.
 
 Demo Video of Application: https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_video.mp4?raw=true
+
 Screenshot of Application: https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_screenshot.jpg
