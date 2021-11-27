@@ -35,6 +35,7 @@
     <div class="row mb-2">
       <div class="col-md-8">
         <h4><a href="/posts/{{post.id}}">{{post.title}}</a></h4>
+        <div>Created on {{format_date date_created}}</div>
       </div>
       <div class="col-md-4">
         <button class="btn btn-sm btn-danger" data-id="{{post.id}}">DELETE</button>
