@@ -16,7 +16,7 @@ Post.init(
         allowNull: false,
       },
       contents: {
-        type: DataTypes.DECIMAL(10,2),
+        type: DataTypes.STRING,
       },
       username: {
         type: DataTypes.STRING,

@@ -4,6 +4,7 @@ const {User} =require ("../../models")
 router.post('/', (req, res) => {
 User.create({
           name: req.body.name,
+          email: req.body.email,
           password: req.body.password,
       }).then(userData => {
         req.session.save(() => {

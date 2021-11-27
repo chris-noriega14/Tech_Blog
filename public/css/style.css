@@ -8,9 +8,10 @@ header, .project:not(:last-child) {
     border: none;
     padding: 0;
     cursor: pointer;
-    color: #1b89bc;
+    color: lightseagreen;
     text-decoration: none;
     font-size: 100%;
+    font-weight: bolder;
   }
   
   .no-button:hover {
@@ -25,6 +26,11 @@ header, .project:not(:last-child) {
   }
 
 .navlink {
+  padding: 0px 50px 0px 0px;
+  font-weight: bolder;
+}
+
+.dashboard {
   padding: 0px 50px 0px 0px;
   font-weight: bolder;
 }
