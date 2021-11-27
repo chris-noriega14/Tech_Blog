@@ -12,7 +12,7 @@ const password = document.querySelector('#password-login').value.trim();
     });
 
     if (response.ok) {
-        document.location.replace('/');
+        document.location.replace('/profile');
     } else {
       alert(response.statusText);
     }

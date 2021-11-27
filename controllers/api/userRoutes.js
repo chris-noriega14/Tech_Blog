@@ -19,9 +19,8 @@ User.create({
     });
 
 router.post('/login', async (req, res) => {
-    //
     try {
-        const userData = await User.findOne({ where: { name: req.body.name } });
+      const userData = await User.findOne({ where: { email: req.body.email } });
           if (!userData) {
             res
               .status(400)
