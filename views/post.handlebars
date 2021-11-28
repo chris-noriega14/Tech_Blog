@@ -3,6 +3,9 @@
   <p>{{contents}}</p>
   <p>Posted by {{user.name}} on {{format_date date_created}}</p>
   <p>
+    {{#if logged_in}}
     <button class="btn btn-primary">Update Post</button>
+    {{else}}
+    {{/if}}
   </p>
 </div>
