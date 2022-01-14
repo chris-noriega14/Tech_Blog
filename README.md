@@ -19,4 +19,4 @@ Note: When creating the password during signup, make sure that it is at least 8 
 
 Demo Video of Application: https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_video.mp4?raw=true
 
-Screenshot of Application: https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_screenshot.jpg
+Screenshot of Application: ![main](https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_screenshot.jpg)
