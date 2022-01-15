@@ -1,8 +1,10 @@
 # Tech Blog
 
-URL of Deployed Application: https://polar-springs-67079.herokuapp.com/
+## URL of Deployed Application 
+https://polar-springs-67079.herokuapp.com/
 
-URL of GitHub Repository: https://github.com/chris-noriega14/Tech_Blog
+## URL of GitHub Repository 
+https://github.com/chris-noriega14/Tech_Blog
 
 ## Description
 
@@ -17,6 +19,10 @@ The homepage displays the full list of blog posts created by all users. When the
 
 Note: When creating the password during signup, make sure that it is at least 8 characters long. Also make sure that the email is an appropriate format.
 
-Demo Video of Application: https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_video.mp4?raw=true
+## Demo Video of Application
+https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_video.mp4?raw=true
 
-Screenshot of Application: ![main](https://github.com/chris-noriega14/Tech_Blog/blob/main/tech_blog_screenshot.jpg)
+## Screenshots of Application
+<img src=https://github.com/chris-noriega14/Tech_Blog/blob/main/screenshot_of_application_one.png>
+<img src=https://github.com/chris-noriega14/Tech_Blog/blob/main/screenshot_of_application_two.png>
+<img src=https://github.com/chris-noriega14/Tech_Blog/blob/main/screenshot_of_application_three.png>
